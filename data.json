@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Gemini Man",
+  "date": "2020-09-01",
+  "title": "2020-09-01",
+  "image": "https://springfilm.herokuapp.com/images/movies/img2.jpg",
+  "content": {
+    "description": "Một sát thủ về hưu bị buộc phải chạy trốn và nhận ra anh phải đối đầu với địch thủ ghê gớm nhất - bản sao trẻ trung hơn của mình."
+  }
+}
